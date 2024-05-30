@@ -34,7 +34,7 @@ class User extends Authenticatable
     ];
 
     /**
-     * The attributes that should be casted.
+     * The attributes that should be castede.
      *
      * @var array<string, string>
      */
